@@ -54,15 +54,6 @@ I'm a Senior Software Engineer and Systems Architect with a passion for **AI/ML 
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mortada7-11&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortada7-11&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 🌍 Let's Connect
 
 <p align="center">
